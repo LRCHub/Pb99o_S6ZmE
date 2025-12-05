@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "小心旅行",
+  "base_artist": "大神ミオ",
+  "createdAt": "2025-12-05T19:10:32.801170Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "小心旅行",
+      "artist": "大神ミオ",
+      "has_synced": true,
+      "path": "select/01_小心旅行_大神ミオ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "小心旅行",
+      "artist": "大神ミオ",
+      "has_synced": false,
+      "path": "select/pl_01_小心旅行_大神ミオ.txt"
+    }
+  ]
+}
